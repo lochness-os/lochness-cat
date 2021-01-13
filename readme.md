@@ -1,10 +1,15 @@
-# C++ Program
+# LochNess `cat` utility
 
 ## About
 
 * * *
 
-Please add relevant information about your application.
+The cat (short for “concatenate“) command is one of
+the most frequently used command in Linux/Unix like
+operating systems. cat command allows us to create
+single or multiple files, view contain of file,
+concatenate files and redirect output in terminal or
+files.
 
 ## Program Preview
 
@@ -46,7 +51,7 @@ meson install -C builddir
 And finally we run this cool application:
 
 ```console
-prog
+cat <option> <command>
 ```
 
 ## Contact the developer
