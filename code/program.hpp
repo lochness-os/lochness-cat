@@ -7,6 +7,6 @@
 #define PROGRAM_HPP
 
 const char * greet(void);
-int foundation(void);
+int foundation(int argc, char **argv);
 
 #endif // end of PROGRAM_HPP
